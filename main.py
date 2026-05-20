@@ -39,7 +39,7 @@ class Latte(Coffee):
     def recipe(self):
         self._water = 50
         self._milk = 150
-        self._coffee = 18
+        self._coffee = 18   
 
     def print_art(self):
         print(r"""
